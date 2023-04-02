@@ -45,6 +45,7 @@ header > h1 {
 
 header > p {
     padding-bottom: 50px;
+    margin-top: 50px;
 }
 
 header a, footer a {
